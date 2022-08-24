@@ -78,15 +78,16 @@ module.exports = {
           // },
         ],
         lastUpdated: "Last Updated", // string | boolean
-        // editLinkText: "Edit this page on GitHub",
+        editLinkText: "Help us improve this page!",
       },
     },
     sidebar: "auto",
     smoothScroll: true,
-    // repo: "zuqiuxunlian/iori-docs",
-    // docsBranch: "main",
-    // repoLabel: "Github",
-    // editLinks: true,
+    repo: "zuqiuxunlian/iori",
+    docsBranch: "main",
+    docsDir: "docs",
+    repoLabel: "Github",
+    editLinks: true,
   },
   plugins: [
     [
