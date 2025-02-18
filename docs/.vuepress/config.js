@@ -1,6 +1,6 @@
 // .vuepress/config.js
 module.exports = {
-  base: "/iori/",
+  base: "/",
   head: [
     [
       "meta",
