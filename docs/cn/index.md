@@ -1,10 +1,15 @@
 ---
-home: true
-heroImage: /iori.png
-heroText: IORI计时器
-tagline: 速度，由你记录
-actionText: 快速开始 →
-actionLink: /cn/iori-pro/
+layout: home
+hero:
+  name: IORI计时器
+  tagline: 速度，由你记录
+  image:
+    src: /iori.png
+  actions:
+    - theme: brand
+      text: 快速开始 →
+      link: /cn/iori-pro/
+
 features:
   - title: 超简单操作
     details: 只需1个按键就可以完成所有功能操作，超级易用，操作简单。
@@ -37,7 +42,3 @@ features:
 <img src="./images/iori-3.jpg" width="960"/>
 <img src="./images/brilliant.png" width="960"/>
 </div> -->
-
-::: slot footer
-Copyright © 2021-2024 一起踢足球训练营
-:::

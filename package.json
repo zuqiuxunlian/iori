@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "IORI Timer",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
-  "author": "Jump T. Wong, awong1900@163.com",
+  "author": "Ten Wong, awong1900@163.com",
   "license": "MIT License",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.9.7",
     "prettier": "^2.7.1",
+    "vitepress": "^1.6.3",
     "vuepress": "^1.9.7",
     "vuepress-plugin-baidu-tongji-analytics": "^1.0.2",
     "vuepress-plugin-sitemap": "^2.3.1"
