@@ -1,6 +1,6 @@
 ---
 editLink: false
-sidebar: auto
+# sidebar: auto
 ---
 
 # 指南
@@ -104,6 +104,7 @@ Pro Max 可以直接户外直射下使用。但是 Pro 型号红外会受阳光�
 设置：
 
 - TWIN：分组设置，同一小组自动互联
+- TRIS: ON/OFF, 是否允许红外触发开始
 - DIST：红外触发距离设置，1.3 米、2.3 米等可选
 
 其他

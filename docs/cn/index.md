@@ -1,14 +1,16 @@
 ---
 layout: home
+
 hero:
   name: IORI计时器
+  text:
   tagline: 速度，由你记录
   image:
     src: /iori.png
   actions:
     - theme: brand
       text: 快速开始 →
-      link: /cn/iori-pro/
+      link: /cn/guide/
 
 features:
   - title: 超简单操作
@@ -29,12 +31,11 @@ features:
     details: 使用简单，不需要成人帮助。大按钮适合儿童运动训练，打造竞争氛围。
   - title: 长续航电池
     details: 采用大容量可充电电池，可以连续工作12小时以上，无需频繁充电，很适合长时间运动或训练。
-# footer: Copyright © 2021-2024 一起踢足球训练营
 ---
 
-<video width="100%" height="630" src="./images/pro/Tsinghua.mp4" controls autoplay loop></video>
+<!-- <video src="https://v.douyin.com/iP3sD8Gs/" controls ></video> -->
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 100%;"><iframe src="//player.bilibili.com/player.html?aid=1454148484&bvid=BV15i421k7ak&cid=1531825155&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<!-- <div style="position: relative; width: 100%; height: 0; padding-bottom: 100%;"><iframe src="//player.bilibili.com/player.html?aid=1454148484&bvid=BV15i421k7ak&cid=1531825155&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> -->
 
 <!-- <div align=center>
 <img src="./images/iori-1.jpg" width="498"/>

@@ -147,7 +147,7 @@ You can use a timer to record the charging time.
 Apple chargers are not supported
 :::
 
-## Official sales channel
+<!-- ## Official sales channel
 
 The product is officially on sale now. I would love to hear feedback from all over the world. The package includes Timer x1, Quick Release Plate x1, Tripod Tray x1, Waterproof bag x1.
 
@@ -180,7 +180,7 @@ I want to keep shipping costs to a minimum. This is the best price I can get at 
 | REST OF ASIA | US$ 12.00 |
 | OTHER        | US$ 20.00 |
 
-You will be responsible for paying local Tax and duties when applicable. You will not always be required to pay duties or import tax, but it is important that you make yourself aware of the duties that apply in your country in case you are charged.
+You will be responsible for paying local Tax and duties when applicable. You will not always be required to pay duties or import tax, but it is important that you make yourself aware of the duties that apply in your country in case you are charged. -->
 
 ## Classic Test
 
@@ -205,7 +205,7 @@ You can contact me on Facebook Messager or Email.
 <!-- I'd like to better understand your needs. Please fill out this registration form [Register](https://forms.gle/Rt7e3TRPQyjXVVxJ9). Then contact me with facebook messenger. -->
 
 - Facebook Page: [https://www.facebook.com/ioritimer](https://www.facebook.com/ioritimer)
-- Email: <awong1900@163.com>
+- Email: <ioritimer@gmail.com>
 
 <!-- Paypal link: [https://paypal.me/awong1900](https://paypal.me/awong1900) -->
 
