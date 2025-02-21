@@ -25,7 +25,7 @@ jobs:
         run: |
           npm ci
           npm run docs:build
-          ls docs/.vuepress/dist
+          ls docs/.vitepress/dist
       - name: upload to OSS
         run: |
-          ossutil cp -rf docs/.vuepress/dist oss://ioritimer
+          ossutil cp -rf docs/.vitepress/dist oss://ioritimer
