@@ -37,7 +37,7 @@ To judge the beginning and end by a non-contact way is indeed the most accurate 
 
 ## Getting Started
 
-<img src="./images/guide.jpg" width="500"/>
+<img src="/images/guide.jpg" width="500"/>
 
 1. Turn on the Power switch on the right, the IORI logo will be displayed on the screen, and the button light is blue.
 2. Press and hold the button. The READY sign is displayed on the screen and the button light is yellow.
@@ -50,7 +50,7 @@ To judge the beginning and end by a non-contact way is indeed the most accurate 
 
 ## Connect your phone to automatically record video
 
-![Operation icon](./images/operation.png)
+![Operation icon](/images/operation.png)
 
 1. Start the IORI timer
 2. Open the Bluetooth of the mobile phone and search the device name "IORI" to connect
@@ -89,8 +89,8 @@ This is perfect for the post-training group photo with Use a mobile phone tripod
 
 Easy install, Just use the included tray and lock the four corners. Then you can lock it on a tripod.
 
-<img src="./images/tripod-1.jpg" width="350"/>
-<img src="./images/tripod-2.jpg" width="350"/>
+<img src="/images/tripod-1.jpg" width="350"/>
+<img src="/images/tripod-2.jpg" width="350"/>
 
 ### Camera Tripod
 
@@ -104,12 +104,12 @@ Installation:
 2. Use a tripod head or 1/4 screw to fix
 3. Check the diagram below
 
-<img src="./images/qrp-1.jpg" width="350"/>
-<img src="./images/qrp-2.jpg" width="350"/>
-<img src="./images/qrp-4.jpg" width="350"/>
-<img src="./images/qrp-3.jpg" width="350"/>
-<img src="./images/qrp-5.jpg" width="350"/>
-<img src="./images/qrp-6.jpg" width="350"/>
+<img src="/images/qrp-1.jpg" width="350"/>
+<img src="/images/qrp-2.jpg" width="350"/>
+<img src="/images/qrp-4.jpg" width="350"/>
+<img src="/images/qrp-3.jpg" width="350"/>
+<img src="/images/qrp-5.jpg" width="350"/>
+<img src="/images/qrp-6.jpg" width="350"/>
 
 **Cheap aluminum tripod (Not recommended)**
 
@@ -121,21 +121,21 @@ Installation:
 2. Use a 1/4 screw to fix
 3. Check the diagram below
 
-<img src="./images/qrp-7.jpg" width="350"/>
-<img src="./images/qrp-8.jpg" width="350"/>
+<img src="/images/qrp-7.jpg" width="350"/>
+<img src="/images/qrp-8.jpg" width="350"/>
 
 ## How waterproof
 
 The timer itself is not currently waterproof. If it is rained on, rain will seep into the button and other places, which will seriously shorten the product life. To this end, we offer simple waterproof bags that can be used on rainy days.
 
-<img src="./images/waterproof.jpg" width="350"/>
+<img src="/images/waterproof.jpg" width="350"/>
 
 ## Charging instructions
 
 Use the USB Type-C to charge the device while **turning on the power switch**.  
 After the actual test, it takes **10 hours** to fully fill, and full can be used for **19 hours**.
 
-<img src="./images/battery-time.jpg" width="350"/>
+<img src="/images/battery-time.jpg" width="350"/>
 
 About 1 hour of charging and 2 hours of use.
 
