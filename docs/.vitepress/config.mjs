@@ -10,6 +10,15 @@ export default defineConfig({
       label: "English",
       lang: "en-US",
       title: "IORI Timer",
+      head: [
+        [
+          "script",
+          {
+            async: "",
+            src: "https://www.tiktok.com/embed.js",
+          },
+        ],
+      ],
       themeConfig: {
         nav: [
           { text: "Home", link: "/" },
@@ -18,10 +27,16 @@ export default defineConfig({
           //   text: "Buy",
           //   link: "/guide.html#official-sales-channel",
           // },
-          // {
-          //   text: "视频合集",
-          //   link: "https://www.bilibili.com/video/BV1ZN4y1G7u7",
-          // },
+          {
+            text: "Video Collection",
+            link: "https://www.tiktok.com/@ioritimer/collection/Football-7475011203157347079",
+          },
+        ],
+        socialLinks: [
+          {
+            icon: "tiktok",
+            link: "https://www.tiktok.com/@ioritimer",
+          },
         ],
         sidebar: [
           {

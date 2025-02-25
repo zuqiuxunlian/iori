@@ -36,7 +36,7 @@ features:
     details: Up to 12 hours of continuous use, meeting most outdoor sports needs without frequent charging.
 ---
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="https://www.youtube.com/embed/DLObx4Fq8FI" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<!-- <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="https://www.youtube.com/embed/DLObx4Fq8FI" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> -->
 
 <!-- <div align=center> -->
 <!-- <img src="./images/iori-1.jpg" width="498"/> -->
