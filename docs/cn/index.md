@@ -33,7 +33,7 @@ features:
   - title: 儿童友好
     details: 使用简单，不需要成人帮助。大按钮适合儿童运动训练，打造竞争氛围。
   - title: 长续航电池
-    details: 采用大容量可充电电池，可以连续工作12小时以上，无需频繁充电，很适合长时间运动或训练。
+    details: 采用大容量可充电电池，可以连续工作10小时以上，无需频繁充电，很适合长时间运动或训练。
 ---
 
 <!-- <video src="https://v.douyin.com/iP3sD8Gs/" controls ></video> -->
