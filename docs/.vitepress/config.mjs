@@ -29,10 +29,23 @@ export default defineConfig({
           // },
           {
             text: "Video Collection",
-            link: "https://www.tiktok.com/@ioritimer/collection/Football-7475011203157347079",
+            items: [
+              {
+                text: "Track and Field",
+                link: "https://www.instagram.com/iori.speed/",
+              },
+              {
+                text: "NFL Combine",
+                link: "https://www.tiktok.com/@ioritimer/collection/Football-7475011203157347079",
+              },
+            ],
           },
         ],
         socialLinks: [
+          {
+            icon: "instagram",
+            link: "https://www.instagram.com/iori.speed/",
+          },
           {
             icon: "tiktok",
             link: "https://www.tiktok.com/@ioritimer",

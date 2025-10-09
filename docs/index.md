@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "IORI Timer"
-  text: "Timing system"
-  tagline: "Simple Yet Powerful Timer for Soccer Training and Video Recording"
+  text: "Track Your Best"
+  tagline: "Revolutionizing track split timing with a no-reflector design."
   image:
     src: /iori.png
     alt: ioritimer
