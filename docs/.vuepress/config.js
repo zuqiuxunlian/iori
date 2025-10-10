@@ -18,16 +18,14 @@ module.exports = {
     [
       "script",
       {
-        async: true,
+        async: "",
         src: "https://www.googletagmanager.com/gtag/js?id=G-42RC5BYH40",
       },
     ],
     [
       "script",
       {},
-      [
-        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-42RC5BYH40');",
-      ],
+      "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-42RC5BYH40');",
     ],
   ],
   locales: {
