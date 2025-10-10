@@ -6,7 +6,8 @@ module.exports = {
       "meta",
       {
         name: "keywords",
-        content: "IORI计时器,IORI Timer,计时器,IORITimer,Stopwatch",
+        content:
+          "IORI计时器, IORI Timer, 计时器,IORITimer, ioritimer, iori speed,Stopwatch",
       },
     ],
     [

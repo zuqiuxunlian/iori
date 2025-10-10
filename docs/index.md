@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "IORI Timer"
   text: "Track Your Best"
-  tagline: "Revolutionizing track split timing with a no-reflector design."
+  tagline: "Revolutionary track timing system with a no-reflector design."
   image:
     src: /iori.png
     alt: ioritimer

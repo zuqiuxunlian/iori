@@ -68,15 +68,23 @@ The IORI timer uses a long-range wireless protocol to connect over distances gre
 
 <img src="./public/images/connect distance.jpg" width="580"/>
 
+<!-- ## How to use?
+
+### Track and Field
+
+### NFL Combine
+
+### Fitness -->
+
 ## Mounting Options
 
 ### Portable Tripod
 
 Compatible with standard 1/4 screw tripod mounts, making it easy to use on the go.
 
-<img src="./public/images/tripod screw.jpg" width="580"/>
+<img src="./public/images/tripod screw.jpg" width="430"/>
 <p/>
-<img src="./public/images/tripod portable.jpg" width="580"/>
+<img src="./public/images/tripod portable.jpg" width="430"/>
 
 ### Other Mounting Options
 
