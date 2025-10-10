@@ -30,23 +30,29 @@ To judge the beginning and end by a non-contact way is indeed the most accurate 
 
 ### IORI timer advantage
 
-- Only one button, not as many buttons as a stopwatch
-- Only one person to complete the test, no assistance, one person to do the work of two people
-- Connect mobile phone, remote synchronization control video recording, segment recording, easier to organize
-- Create a competitive training culture that improve athletic performance for all
+- **No Reflector Needed**  
+  Just power it on and you're ready to go—no setup hassle.
+- **Unaffected by Sunlight**  
+  Even under direct noon sun, the timer remains stable and accurate.
+- **Split Timing or Multi-Lane Timing**  
+  Multiple modes supported with easy switching.
+- **Up to 10 Hours of Battery Life**  
+  Fully charges in 3 hours, lasts over 10 hours of continuous use.
 
 ## Getting Started
 
 <img src="/images/guide.jpg" width="500"/>
 
-1. Turn on the Power switch on the right, the IORI logo will be displayed on the screen, and the button light is blue.
-2. Press and hold the button. The READY sign is displayed on the screen and the button light is yellow.
-3. Release the button to start the timing immediately. The screen shows the stopwatch timing, and the button light is green.
-4. Press the button again to stop the timer. The screen displays the duration time, and the button light is red.
-5. Long press the button to enter the ready state again. The button light will turn blue and then orange.
-6. Or press short to continue timing, and the button light will display green again.
+1. Long Press to **READY**,
+2. Release to **START**,
+3. Laser Trigger to **STOP**,
+4. Long Press **READY again**.
 
-[Operation Video](https://www.instagram.com/p/ChpD4SrAQOn/)
+<!--  -->
+
+<video class="responsive-video" src="./public/videos/10m&30m Sprint.mp4" poster="./public/videos/10m&30m Sprint.png" controls ></video>
+
+<!--  -->
 
 ## Connect your phone to automatically record video
 

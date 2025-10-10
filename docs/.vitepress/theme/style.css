@@ -31,3 +31,10 @@
     width: 100%;
     aspect-ratio: 1 / 1;
 } */
+
+.responsive-video {
+    width: 100%;
+    max-width: 430px;
+    height: auto;
+    border-radius: 16px;
+}
