@@ -41,7 +41,7 @@ To judge the beginning and end by a non-contact way is indeed the most accurate 
 
 ## Getting Started
 
-<img src="/images/guide.jpg" width="500"/>
+<img src="/images/guide.jpg" width="430"/>
 
 1. Long Press to **READY**,
 2. Release to **START**,
@@ -54,104 +54,37 @@ To judge the beginning and end by a non-contact way is indeed the most accurate 
 
 <!--  -->
 
-## Connect your phone to automatically record video
+## How it works?
 
-![Operation icon](/images/operation.png)
+### Laser trigger not need relector
 
-1. Start the IORI timer
-2. Open the Bluetooth of the mobile phone and search the device name "IORI" to connect
-3. Open the Camera application and select VIDEO
-4. Press and hold the button to start counting, and video will start video recording
-5. Release the button to continue recording
-6. Press the IORI button again to stop video recording
+The timer utilizes eye-safe infrared laser, eliminating the need for reflector. By default, it operates over a trigger distance of 1.3 meters, easily covering the width of a standard track. For different sports need, the trigger distance can be adjusted to 2.3, 4.3, or 6.3 meters, offering flexibility for a variety of environments.
 
-[Remote Control for iPhone/Android Video](https://www.instagram.com/p/ChpEZSDAY84/)
+<img src="./public/images/trigger distace.jpg" width="580"/>
 
-::: tip
-With the mobile phone tripod, it is convenient to record the movements of the team members one by one.
-:::
+### Wireless connect long way
 
-::: tip
-After the connection is successful, it will be automatically connected every time the machine starts up. If you want to connect to another phone, you need to disconnect this phone or it's out of connection range.
-:::
+The IORI timer uses a long-range wireless protocol to connect over distances greater than 200 meters with stable and reliable control. It supports simultaneous connection of up to **11 devices**, making it ideal for creating a 100m split timing system. This ensures accurate timing across different points on the track, providing flexibility and precision for various sporting events.
 
-## Connect your phone to take a selfie
+<img src="./public/images/connect distance.jpg" width="580"/>
 
-1. Start the IORI timer
-2. Open the Bluetooth of the mobile phone and search for the device name "IORI" to connect
-3. Open the Camera application and select PHOTO
-4. Press and hold the IORI button and release it
-5. Short Press the IORI button continuously. Each time you short press it, it is a snapshot
+## Mounting Options
 
-::: tip
-This is perfect for the post-training group photo with Use a mobile phone tripod.
-:::
+### Portable Tripod
 
-## Install to the tripod
+Compatible with standard 1/4 screw tripod mounts, making it easy to use on the go.
 
-### Speaker Stand (Recommended)
+<img src="./public/images/tripod screw.jpg" width="580"/>
+<p/>
+<img src="./public/images/tripod portable.jpg" width="580"/>
 
-35mm thick adjustable steel tripod, Suitable for fixed place use. Not easy to tip over when press or tap. Such as [Amazon Basics Adjustable Speaker Stand - 4.1 to 6.6-Foot, Steel](https://a.co/d/imwDcyr)
+### Other Mounting Options
 
-Easy install, Just use the included tray and lock the four corners. Then you can lock it on a tripod.
-
-<img src="/images/tripod-1.jpg" width="350"/>
-<img src="/images/tripod-2.jpg" width="350"/>
-
-### Camera Tripod
-
-When you go out to use, a light tripod is a must, here recommend carbon fiber tripod, one is light weight, the second is strong.
-
-**Lightweight and robust carbon fiber tripod (Recommended)**
-
-Installation:
-
-1. Lock the quick release plate to the bottom of the timer
-2. Use a tripod head or 1/4 screw to fix
-3. Check the diagram below
-
-<img src="/images/qrp-1.jpg" width="350"/>
-<img src="/images/qrp-2.jpg" width="350"/>
-<img src="/images/qrp-4.jpg" width="350"/>
-<img src="/images/qrp-3.jpg" width="350"/>
-<img src="/images/qrp-5.jpg" width="350"/>
-<img src="/images/qrp-6.jpg" width="350"/>
-
-**Cheap aluminum tripod (Not recommended)**
-
-Cheap aluminum tripod because of poor bearing capacity, easy to instability.
-
-Installation:
-
-1. Lock the quick release plate to the bottom of the timer
-2. Use a 1/4 screw to fix
-3. Check the diagram below
-
-<img src="/images/qrp-7.jpg" width="350"/>
-<img src="/images/qrp-8.jpg" width="350"/>
-
-## How waterproof
-
-The timer itself is not currently waterproof. If it is rained on, rain will seep into the button and other places, which will seriously shorten the product life. To this end, we offer simple waterproof bags that can be used on rainy days.
-
-<img src="/images/waterproof.jpg" width="350"/>
+You can place the device anywhere that suits your needs—on a jump box, a chair, or even handheld. The versatile design ensures you can adapt the setup to any environment, providing flexibility for different activities.
 
 ## Charging instructions
 
-Use the USB Type-C to charge the device while **turning on the power switch**.  
-After the actual test, it takes **10 hours** to fully fill, and full can be used for **19 hours**.
-
-<img src="/images/battery-time.jpg" width="350"/>
-
-About 1 hour of charging and 2 hours of use.
-
-::: tip
-You can use a timer to record the charging time.
-:::
-
-::: danger Not supported
-Apple chargers are not supported
-:::
+Charge the device with a Type-C interface charger. The power light turns red during charging and goes off when fully charged. After actual testing, it takes about 3 hours to fully charge and the battery can last for **10 hours** when fully charged.
 
 <!-- ## Official sales channel
 
@@ -188,7 +121,7 @@ I want to keep shipping costs to a minimum. This is the best price I can get at 
 
 You will be responsible for paying local Tax and duties when applicable. You will not always be required to pay duties or import tax, but it is important that you make yourself aware of the duties that apply in your country in case you are charged. -->
 
-## Classic Test
+<!-- ## Classic Test
 
 The IORI timer performs all tests with consistent start and end points. Such as shuttle run, T-test and so on. When we design our training program, we try to have the same start and end point. In addition, the IORI timer can be used to test time challenges, such as the maximum time to juggle continuously and the time to plank.
 
@@ -202,18 +135,18 @@ The T-test includes accelerate, decelerate, shuffle, and backward, which are the
 
 ### 60 ball juggling challenge
 
-The time it takes to complete 60 ball juggle. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60.
+The time it takes to complete 60 ball juggle. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60. -->
 
-### Contact Us
+## Contact Us
 
-You can contact me on Facebook Messager or Email.
+You can contact me with Email or Join Whatsapp fans group.
 
-<!-- I'd like to better understand your needs. Please fill out this registration form [Register](https://forms.gle/Rt7e3TRPQyjXVVxJ9). Then contact me with facebook messenger. -->
-
-- Facebook Page: [https://www.facebook.com/ioritimer](https://www.facebook.com/ioritimer)
 - Email: <ioritimer@gmail.com>
+- Whatsapp Group: [IORI Speed](https://chat.whatsapp.com/FvH3O5wqDBgGBYiNyWpEtT?mode=ems_copy_t)
 
-<!-- Paypal link: [https://paypal.me/awong1900](https://paypal.me/awong1900) -->
+<!-- ## Some of Our Clients
+
+JT Physical Training Academy, Derby County on UK, Shenzhen Green Field Youth Training, Shenzhen Football Association U10/U11 Women's Elite Team Selection, Shenzhen Wanderers U8-U12 Elite Team Selection, Jiangsu Football Association, Beijing Normal University Shenzhen Independent Enrollment Selection, Hong Kong Leaper Sport Lab, Tongji University in Shanghai, University of Nottingham Ningbo China, Huaqiao University, Ganzhou Fire Department, Beijing People's Procuratorate, etc. -->
 
 ## About Us
 
