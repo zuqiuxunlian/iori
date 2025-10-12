@@ -68,13 +68,69 @@ The IORI timer uses a long-range wireless protocol to connect over distances gre
 
 <img src="./public/images/connect distance.jpg" width="580"/>
 
-<!-- ## How to use?
+## How to use?
+
+IORI Timer supports almost all sprint and agility test. Let me show you.
 
 ### Track and Field
 
-### NFL Combine
+<!-- 通常地，需要一个朋友帮你发令，按住 SET，释放的同时发令 GO，这将包含反应时间。终点使用激光触发结束。 -->
 
-### Fitness -->
+Normally, you’ll need a friend to help you with the start.
+Hold down **SET**, and release it while calling **GO** — this will include your reaction time.
+The finish is triggered by the laser sensor.
+
+<!--  -->
+
+<video class="responsive-video" src="./public/videos/100m.mp4" poster="./public/videos/100m.png" controls ></video>
+
+<!--  -->
+
+#### Flying test
+
+<!-- 以前，当使用秒表时，行进间测试非常难获得准确数据。如今，你只需放置计时器在你需要的位置，就可以获得任何区间的时间。
+我们支持激光触发启动，同时终点也是激光触发结束。 -->
+
+In the past, it was difficult to get accurate data for flying sprints when using a stopwatch.
+Now, you can place the timers wherever you need and get precise times for any segment.
+We support laser-triggered starts, and the finish is also activated by a laser sensor.
+
+<!--  -->
+
+<video class="responsive-wide-video" src="./public/videos/Flying Test.mp4" poster="./public/videos/Flying Test.png" controls ></video>
+
+<!--  -->
+
+<!-- #### Split timing system -->
+
+<!-- 很多教练想在一次训练测试中获得 60 米和 100 米的成绩，只需要增加额外的计时器。每多增加一个计时器，就可以多测试一个分段。 -->
+
+<!-- Many coaches want to get both 60m and 10 m results in a single training test.
+You only need to add extra timers — each additional timer allows you to record one more split. -->
+
+<!--  -->
+
+<!-- <video class="responsive-video" src="./public/videos/60m&100m Split.mp4" poster="./public/videos/60m&100m Split.png" controls ></video> -->
+
+<!--  -->
+
+<!-- #### Multi-Lane Test -->
+
+### 40 Yard Dash
+
+<!-- 按照 NFL Combine 的要求，40 码测试在运动员启动后才开始计时。因此运动员自己手按计时器准备，3 点式启动，这将不包含启动反应时间，非常接近 NFL 的正式测试。终点仍然是激光触发结束。 -->
+
+According to NFL Combine standards, the 40-yard dash timing starts only after the athlete begins to move.
+Therefore, the athlete can manually press the timer to get ready and start from a 3-point stance — this setup excludes reaction time and closely replicates the official NFL test.
+The finish is still triggered by the laser sensor.
+
+<!--  -->
+
+<video class="responsive-video" src="./public/videos/40 Yard Dash.mp4" poster="./public/videos/40 Yard Dash.png" controls ></video>
+
+<!--  -->
+
+<!-- ### Shuttle Run -->
 
 ## Mounting Options
 

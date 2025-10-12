@@ -38,3 +38,10 @@
     height: auto;
     border-radius: 16px;
 }
+
+.responsive-wide-video {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    border-radius: 16px;
+}
