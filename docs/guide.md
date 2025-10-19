@@ -41,7 +41,7 @@ To judge the beginning and end by a non-contact way is indeed the most accurate 
 
 ## Getting Started
 
-<img src="/images/guide.jpg" width="430"/>
+<img src="./public/images/guide.jpg" width="430"/>
 
 1. Long Press to **READY**,
 2. Release to **START**,
@@ -77,7 +77,7 @@ IORI Timer supports almost all sprint and agility test. Let me show you.
 <!-- 通常地，需要一个朋友帮你发令，按住 SET，释放的同时发令 GO，这将包含反应时间。终点使用激光触发结束。 -->
 
 Normally, you’ll need a friend to help you with the start.
-Hold down **SET**, and release it while calling **GO** — this will include your reaction time.
+Hold down **READY** for set, and release it while calling **GO** — this will include your reaction time.
 The finish is triggered by the laser sensor.
 
 <!--  -->

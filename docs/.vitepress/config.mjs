@@ -73,6 +73,10 @@ export default defineConfig({
             link: "/guide",
           },
         ],
+        // editLink: {
+        //   pattern: "https://github.com/zuqiuxunlian/iori/edit/main/docs/:path",
+        //   text: "Edit this page on GitHub",
+        // },
         footer: {
           copyright: "Copyright © 2021-2025 YQT FC",
         },
@@ -138,7 +142,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
-    logo: "/logo.jpg",
+    logo: "/logo.png",
     // search: {
     //   provider: "local",
     // },
