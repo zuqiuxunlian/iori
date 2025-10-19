@@ -77,6 +77,9 @@ export default defineConfig({
         //   pattern: "https://github.com/zuqiuxunlian/iori/edit/main/docs/:path",
         //   text: "Edit this page on GitHub",
         // },
+        lastUpdated: {
+          text: "Last updated",
+        },
         footer: {
           copyright: "Copyright © 2021-2025 YQT FC",
         },
@@ -128,12 +131,20 @@ export default defineConfig({
             link: "/cn/guide",
           },
         ],
+        lastUpdated: {
+          text: "最近更新",
+        },
         footer: {
           copyright: "Copyright © 2021-2025 一起踢足球训练营",
         },
         sidebarMenuLabel: "菜单",
+        darkModeSwitchLabel: "外观",
         outline: {
           label: "页面导航",
+        },
+        docFooter: {
+          prev: "上一页",
+          next: "下一页",
         },
         returnToTopLabel: "返回顶部",
       },
@@ -146,5 +157,8 @@ export default defineConfig({
     // search: {
     //   provider: "local",
     // },
+  },
+  sitemap: {
+    hostname: "https://ioritimer.com",
   },
 });

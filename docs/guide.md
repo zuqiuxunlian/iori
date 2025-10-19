@@ -203,7 +203,12 @@ The time it takes to complete 60 ball juggle. Drop the ball can be picked up to 
 
 ## Contact Us
 
-You can contact me with Email or Join Whatsapp fans group.
+We’ve posted lots of real testing videos on IG and TikTok. Follow us for more.
+
+- Instagram: <https://www.instagram.com/iori.speed/>
+- TikTok: <https://www.tiktok.com/@ioritimer>
+
+You can also contact me by email or join our WhatsApp fan group.
 
 - Email: <ioritimer@gmail.com>
 - Whatsapp Group: [IORI Speed](https://chat.whatsapp.com/FvH3O5wqDBgGBYiNyWpEtT?mode=ems_copy_t)
