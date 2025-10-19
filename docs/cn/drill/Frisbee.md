@@ -31,4 +31,4 @@ Ultimate Frisbee（极限飞盘）是一项严格要求无身体碰撞的团队�
 - 受试者需分别完成两次测试，取最高值并记录，单位为秒，精确到小数点后 2 位。
 - 测试路线错误则该次不计成绩。
 
-![12](../images/test/Illinois.png)
+<!-- ![12](../images/test/Illinois.png) -->
