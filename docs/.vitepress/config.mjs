@@ -28,7 +28,7 @@ export default defineConfig({
         [
           "script",
           {},
-          "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-42RC5BYH40');",
+          "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-2RHPF1PLEQ');",
         ],
       ],
       themeConfig: {
