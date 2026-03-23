@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始 →
-      link: /cn/guide#快速开始
+      link: /guide#快速开始
     - theme: alt
       text: 指南
-      link: /cn/guide/
+      link: /guide/
 
 features:
   - title: 超简单操作

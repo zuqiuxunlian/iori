@@ -42,7 +42,7 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 ## 快速开始
 
-<img src="../public/images/guide.jpg" width="430"/>
+<img src="./public/images/guide.jpg" width="430"/>
 
 1. 长按 **准备/READY**
 2. 松手 **开始**
@@ -51,7 +51,7 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 <!--  -->
 
-<video class="responsive-video" src="../public/videos/10m&30m Sprint.mp4" poster="../public/videos/10m&30m Sprint.png" controls ></video>
+<video class="responsive-video" src="./public/videos/10m&30m Sprint.mp4" poster="./public/videos/10m&30m Sprint.png" controls ></video>
 
 <!--  -->
 
@@ -61,13 +61,13 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 IORI 计时器采用对人体安全的红外激光触发，无需反射板。默认情况下，其触发距离为 1.3 米，约为一个标准跑道的宽度。针对不同运动项目的需求，触发距离可调整为 2.3 米、4.3 米或 6.3 米，从而适合各种要求的测试。
 
-<img src="../public/images/trigger distace.jpg" width="580"/>
+<img src="./public/images/trigger distace.jpg" width="580"/>
 
 ### 长距离无线连接
 
 IORI 计时器采用远距离无线协议，连接距离大于 200 米，控制稳定可靠。它可以支持 100m、200m、400m 距离的单人或多人测试。同时它支持 11 个设备同时连接，非常适合创建 100m 分段计时系统，记录全程 10 米分段成绩。
 
-<img src="../public/images/connect distance.jpg" width="580"/>
+<img src="./public/images/connect distance.jpg" width="580"/>
 
 ## 如何使用
 
@@ -79,7 +79,7 @@ IORI 计时器支持几乎所有的冲刺和敏捷性测试。我们来了解一
 
 <!--  -->
 
-<video class="responsive-video" src="../public/videos/100m.mp4" poster="../public/videos/100m.png" controls ></video>
+<video class="responsive-video" src="./public/videos/100m.mp4" poster="./public/videos/100m.png" controls ></video>
 
 <!--  -->
 
@@ -90,7 +90,7 @@ IORI 计时器支持几乎所有的冲刺和敏捷性测试。我们来了解一
 
 <!--  -->
 
-<video class="responsive-wide-video" src="../public/videos/Flying Test.mp4" poster="../public/videos/Flying Test.png" controls ></video>
+<video class="responsive-wide-video" src="./public/videos/Flying Test.mp4" poster="./public/videos/Flying Test.png" controls ></video>
 
 <!--  -->
 
@@ -100,7 +100,7 @@ IORI 计时器支持几乎所有的冲刺和敏捷性测试。我们来了解一
 
 <!--  -->
 
-<video class="responsive-video" src="../public/videos/40 Yard Dash.mp4" poster="../public/videos/40 Yard Dash.png" controls ></video>
+<video class="responsive-video" src="./public/videos/40 Yard Dash.mp4" poster="./public/videos/40 Yard Dash.png" controls ></video>
 
 <!--  -->
 
@@ -162,23 +162,23 @@ IORI 计时器支持几乎所有的冲刺和敏捷性测试。我们来了解一
 ### IORI 三脚架 稳固款
 
 适合固定场所使用
-<img src="../public/images/tripod hard.jpg" width="500"/>
+<img src="./public/images/tripod hard.jpg" width="500"/>
 
 - 35mm 粗加厚伸缩型三角架，短款支持 62-120mm，长款支持 100-180mm。
 - 非常适合固定训练场使用，拍按时不易翻倒，坚固耐用。
 - 安装非常简单，只需要取下**托盘**，然后锁住四个角即可。
 
-<img src="../public/images/tripod-1.jpg" width="430"/>
+<img src="./public/images/tripod-1.jpg" width="430"/>
 <p/>
-<img src="../public/images/tripod-2.jpg" width="430"/>
+<img src="./public/images/tripod-2.jpg" width="430"/>
 
 ### IORI 三脚架 便携款
 
 当你外出使用时，一个轻便的三脚架是更方便的。兼容通用 1/4 螺丝接口，可随时出发测试。
 
-<img src="../public/images/tripod screw.jpg" width="430"/>
+<img src="./public/images/tripod screw.jpg" width="430"/>
 <p/>
-<img src="../public/images/tripod portable.jpg" width="430"/>
+<img src="./public/images/tripod portable.jpg" width="430"/>
 
 ## 充电指导
 
