@@ -7,92 +7,13 @@ export default defineConfig({
   //   "Simple Yet Powerful Timer for Soccer Training and Video Recording",
   locales: {
     root: {
-      label: "English",
-      lang: "en-US",
-      title: "IORI Timer",
-      head: [
-        [
-          "script",
-          {
-            async: "",
-            src: "https://www.tiktok.com/embed.js",
-          },
-        ],
-        [
-          "script",
-          {
-            async: "",
-            src: "https://www.googletagmanager.com/gtag/js?id=G-42RC5BYH40",
-          },
-        ],
-        [
-          "script",
-          {},
-          "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-2RHPF1PLEQ');",
-        ],
-      ],
-      themeConfig: {
-        nav: [
-          { text: "Home", link: "/" },
-          { text: "Guide", link: "/guide/" },
-          // {
-          //   text: "Buy",
-          //   link: "/guide.html#official-sales-channel",
-          // },
-          {
-            text: "Video Collection",
-            items: [
-              {
-                text: "Track and Field",
-                link: "https://www.instagram.com/iori.speed/",
-              },
-              {
-                text: "NFL Combine",
-                link: "https://www.tiktok.com/@ioritimer/collection/Football-7475011203157347079",
-              },
-            ],
-          },
-        ],
-        socialLinks: [
-          {
-            icon: "instagram",
-            link: "https://www.instagram.com/iori.speed/",
-          },
-          {
-            icon: "tiktok",
-            link: "https://www.tiktok.com/@ioritimer",
-          },
-        ],
-        sidebar: [
-          {
-            text: "Home",
-            link: "/",
-          },
-          {
-            text: "Guide",
-            link: "/guide",
-          },
-        ],
-        // editLink: {
-        //   pattern: "https://github.com/zuqiuxunlian/iori/edit/main/docs/:path",
-        //   text: "Edit this page on GitHub",
-        // },
-        lastUpdated: {
-          text: "Last updated",
-        },
-        footer: {
-          copyright: "Copyright © 2021-2025 YQT FC",
-        },
-      },
-    },
-    cn: {
       label: "中文",
       lang: "zh-CN",
       title: "IORI计时器",
       themeConfig: {
         nav: [
-          { text: "主页", link: "/cn/" },
-          { text: "指南", link: "/cn/guide/" },
+          { text: "主页", link: "/" },
+          { text: "指南", link: "/guide/" },
           // {
           //   text: "型号",
           //   ariaLabel: "Language Menu",
