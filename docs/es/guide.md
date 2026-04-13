@@ -126,25 +126,25 @@ Según los estándares del NFL Combine, el cronometraje de la carrera de 40 yard
 
 <!-- ### Shuttle Run -->
 
-## Configuración del modo
+## Modos y ajustes
 
 1. Mantén pulsados ​​simultáneamente el **botón TAP** y el **botón de activación** (botón lateral).
-2. Pulsa brevemente el botón TAP para cambiar las opciones; mantén pulsado para confirmar.
+2. Pulsa brevemente el **botón TAP** para cambiar las opciones; mantén pulsado para confirmar.
 
-Modo : Comenzando con **M.**
+**Modo** : Prefijo **M.**
 
-- **TAP**: Modo predeterminado. El temporizador de **inicio/fin** lo utiliza y muestra los resultados completos. Adecuado para pruebas individuales de 100 m o de vuelo.
-- **SPT**: Modo dividido. El temporizador entre el inicio y el final lo utiliza, pero solo muestra el resultado dividido.
-- **MORE**: Más opciones de modo, mantenga pulsado para acceder al submenú y seleccionar.
+- **TAP**: Modo predeterminado. El cronómetro en la línea de **salida/meta** lo utiliza y muestra los resultados completos. Adecuado para pruebas individuales de 100 m o de vuelo.
+- **SPT**: Modo dividido. El temporizador entre las líneas de inicio y fin lo utiliza, pero solo muestra el resultado dividido.
+- **MORE**: Más opciones de modo, **mantenga pulsado** para acceder al submenú y seleccionar.
   - **PK**: Modo de inicio multipista, utilizado para iniciar la carrera con múltiples carriles de cronometraje. En este momento, todos los cronómetros en los carriles de la línea de meta utilizan el modo SPT.
-  - **SET**: Modo de inicio con cuenta regresiva. El disparo de salida se activa aleatoriamente entre **SET** y **GO** , con un intervalo de 1,5 a 3,5 segundos. Puede reemplazar el modo TAP o PK en la línea de salida.
+  - **SET**: Modo de inicio con cuenta regresiva. El zumbador de inicio suena aleatoriamente entre **SET** y **GO** , con un intervalo de 1,5 a 3,5 segundos. Puede reemplazar el modo TAP o PK en la línea de salida.
   - **ADD**: Modo de disparo continuo. Cada disparo suma un resultado. Adecuado para cronometrar carreras de 400 u 800 metros.
   - **LAP**: Modo vuelta, registra el tiempo de cada vuelta. Adecuado para patinaje sobre ruedas.
   - **SHT**: Modo de funcionamiento continuo. El temporizador se detiene tras activarse un número determinado de veces. Adecuado para la prueba **5-10-5**, necesita activarse dos veces antes de detenerse.
   - **KEEP**: Modo de cronometraje continuo. Pulsación corta para pausar o reanudar, pulsación larga para detener. Adecuado para cronometrar partidos.
   - **CNT**: Modo de conteo. Registra una repetición cada vez que se pulsa o se activa. Ideal para ejercicios de conteo como las flexiones.
 
-**Configuración**: Comienza con **S.**
+**Configuración**: Prefijo **S.**
 
 - **TWIN**: Configuración de grupo. Permite la interconexión automática dentro del mismo grupo, como si fueran gemelos. Ideal para que varios grupos realicen pruebas simultáneamente sin interferencias.
 - **TRIS**: Configuración de inicio del disparador. Su propósito es permitir que se inicie el disparo del temporizador. Para la prueba de vuelo, es necesario que "TRIS" esté "ON" en el primer temporizador.

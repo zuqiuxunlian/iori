@@ -132,25 +132,25 @@ The finish is still triggered by the laser sensor.
 
 <!-- ### Shuttle Run -->
 
-## Mode settings
+## Modes and Settings
 
 1. Press and hold both the **TAP button** and the **Wake button** (Side button) at the same time.
-2. Short press **TAP butto** for switch options, long press to confirm.
+2. Short press **TAP button** for switch options, long press to confirm.
 
-**Mode**: Starting with **M.**
+**Mode**: Prefix **M.**
 
-- **TAP**: Default mode.The timer on **start/finish** use it, displays complete results. Suitable for single 100m or fly test.
-- **SPT**: Split mode. The timer on between the start and finish use it, only displays split result.
-- **MORE**: More mode options, long press to enter the submenu to select.
+- **TAP**: Default mode.The timer on **start/finish** line use it, displays complete results. Suitable for single 100m or fly test.
+- **SPT**: Split mode. The timer on between the start and finish lines use it, only displays split result.
+- **MORE**: More mode options, **long press** to enter the submenu to select.
   - **PK**: Multi-track start mode, used for starting the race with multiple timing lanes. At this time, the timers on the finish line lanes all use SPT mode.
-  - **SET**: Countdown start mode. The starting gun fires randomly between **SET** and **GO**, with a interval of 1.5-3.5 seconds. It can replace the TAP or PK mode at the starting line.
+  - **SET**: Countdown start mode. The starting buzzer fires randomly between **SET** and **GO**, with a interval of 1.5-3.5 seconds. It can replace the TAP or PK mode at the starting line.
   - **ADD**: Continuous trigger mode. Each trigger adds one result. Suitable for timing with 400 or 800m race.
   - **LAP**: Lap mode, records the time for each lap. Suitable for roller skating.
   - **SHT**: Shuttle run mode. The timer stops after triggering an additional certain number of times. Suitable for **5-10-5** test, it needs to be triggered twice before it stops.
   - **KEEP**: Continue timing mode. Short press to pause or resume, long press to stop. Suitable for match timing.
   - **CNT**: Counting mode, records one instance each time it is pressed or triggered. Suitable for counting exercises such as push-ups.
 
-**Setting**: Beginning with **S.**
+**Setting**: Prefix **S.**
 
 - **TWIN**: Group setting. It allow automatic interconnection within the same group, like twins. Suitable for multiple groups to test simultaneously without interference.
 - **TRIS**: Trigger start setting. The purpose is to allow timer triggering to start. Fly test need **tris** is **ON** on the first timer.
