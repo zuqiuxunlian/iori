@@ -1,5 +1,5 @@
-.vuepress/dist
 node_modules
-docs/.vuepress/dist/
 docs/.vitepress/cache
 docs/.vitepress/dist
+docs-cn/.vitepress/cache
+docs-cn/.vitepress/dist

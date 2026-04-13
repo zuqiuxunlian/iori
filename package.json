@@ -1,11 +1,14 @@
 {
   "name": "iori-docs",
   "version": "1.0.0",
-  "description": "IORI Timer",
+  "description": "IORI Timer Documentation",
   "scripts": {
     "docs:dev": "vitepress dev docs --host 0.0.0.0",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "dev:cn": "vitepress dev docs-cn",
+    "build:cn": "vitepress build docs-cn",
+    "preview:cn": "vitepress preview docs-cn"
   },
   "author": "Ten Wong, awong1900@163.com",
   "license": "MIT License",
