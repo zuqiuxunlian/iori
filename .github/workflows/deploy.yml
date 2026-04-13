@@ -4,7 +4,7 @@ name: deploy
 on:
   push:
     branches:
-      - main-cn
+      - main
 
 jobs:
   build:
@@ -24,8 +24,8 @@ jobs:
       - name: build docs
         run: |
           npm ci
-          npm run docs:build
-          ls docs/.vitepress/dist
+          npm run build:cn
+          ls docs-cn/.vitepress/dist
       - name: upload to OSS
         run: |
-          ossutil cp -rf docs/.vitepress/dist oss://ioritimer
+          ossutil cp -rf docs-cn/.vitepress/dist oss://ioritimer
