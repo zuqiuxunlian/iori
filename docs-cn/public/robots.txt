@@ -1,0 +1,3 @@
+Sitemap: https://ioritimer.com/sitemap.xml
+
+User-agent: *
