@@ -56,7 +56,7 @@ export default defineConfig({
           text: "最近更新",
         },
         footer: {
-          copyright: "Copyright © 2021-2025 一起踢足球训练营",
+          copyright: "Copyright © 2021-2026 一起踢足球训练营",
         },
         sidebarMenuLabel: "菜单",
         darkModeSwitchLabel: "外观",
@@ -80,6 +80,6 @@ export default defineConfig({
     // },
   },
   sitemap: {
-    hostname: "https://ioritimer.com",
+    hostname: "https://iori.zuqiuxunlian.com",
   },
 });

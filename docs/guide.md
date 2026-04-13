@@ -132,6 +132,43 @@ The finish is still triggered by the laser sensor.
 
 <!-- ### Shuttle Run -->
 
+## Mode settings
+
+1. Press and hold both the **TAP button** and the **Wake button** (Side button) at the same time.
+2. Short press **TAP butto** for switch options, long press to confirm.
+
+**Mode**: Starting with **M.**
+
+- **TAP**: Default mode.The timer on **start/finish** use it, displays complete results. Suitable for single 100m or fly test.
+- **SPT**: Split mode. The timer on between the start and finish use it, only displays split result.
+- **MORE**: More mode options, long press to enter the submenu to select.
+  - **PK**: Multi-track start mode, used for starting the race with multiple timing lanes. At this time, the timers on the finish line lanes all use SPT mode.
+  - **SET**: Countdown start mode. The starting gun fires randomly between **SET** and **GO**, with a interval of 1.5-3.5 seconds. It can replace the TAP or PK mode at the starting line.
+  - **ADD**: Continuous trigger mode. Each trigger adds one result. Suitable for timing with 400 or 800m race.
+  - **LAP**: Lap mode, records the time for each lap. Suitable for roller skating.
+  - **SHT**: Shuttle run mode. The timer stops after triggering an additional certain number of times. Suitable for **5-10-5** test, it needs to be triggered twice before it stops.
+  - **KEEP**: Continue timing mode. Short press to pause or resume, long press to stop. Suitable for match timing.
+  - **CNT**: Counting mode, records one instance each time it is pressed or triggered. Suitable for counting exercises such as push-ups.
+
+**Setting**: Beginning with **S.**
+
+- **TWIN**: Group setting. It allow automatic interconnection within the same group, like twins. Suitable for multiple groups to test simultaneously without interference.
+- **TRIS**: Trigger start setting. The purpose is to allow timer triggering to start. Fly test need **tris** is **ON** on the first timer.
+- **DIST**: Trigger distance setting. Selectable from 1.3 meters, 2.3 meters, etc. The default setting is 1.3 meters, which covers the width of a running track.
+
+**Other**
+
+- **BT...**: Reset Bluetooth connection. Connect the mobile phone to control the video recording. The Bluetooth device is named “IORI xxx“.
+- **ABOUT**: Model and software version information.
+
+::: tip Quick switching between TAP and PK
+In the M.TAP menu, a quick double-click will switch to PK mode.
+:::
+
+::: tip Menu differences
+Menu items may vary slightly in different versions
+:::
+
 ## Mounting Options
 
 ### Portable Tripod
@@ -219,6 +256,6 @@ JT Physical Training Academy, Derby County on UK, Shenzhen Green Field Youth Tra
 
 ## About Us
 
-The product is designed by [Shenzhen Yiqiti Football Camp](https://zuqiuxunlian.github.io/en/) team.
+The product is designed by [Shenzhen YQT Football Camp](https://zuqiuxunlian.github.io/en/) team.
 
 Many thanks to Coach Lu, Juca Grajau (Brazil) of Shenzhen FC116 Club, Coach Yang Bin of Shenzhen Rangers Club, Coach Xu Jianning of Xiamen City, Coach Yang of Wuhan Huangbei Jianxiao Club, and Coach Zhao of Football Salon. Many helpful suggestions were given during development and testing.

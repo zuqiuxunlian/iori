@@ -81,74 +81,74 @@ export default defineConfig({
           text: "Last updated",
         },
         footer: {
-          copyright: "Copyright © 2021-2025 YQT FC",
+          copyright: "Copyright © 2021-2026 YQT FC",
         },
       },
     },
-    // cn: {
-    //   label: "",
-    //   lang: "zh-CN",
-    //   title: "IORI计时器",
-    //   themeConfig: {
-    //     nav: [
-    //       { text: "主页", link: "/cn/" },
-    //       { text: "指南", link: "/cn/guide/" },
-    //       // {
-    //       //   text: "型号",
-    //       //   ariaLabel: "Language Menu",
-    //       //   items: [
-    //       //     { text: "IORI 1S", link: "/cn/iori-1/" },
-    //       //     { text: "IORI PRO", link: "/cn/iori-pro/" },
-    //       //   ],
-    //       // },
-    //       // {
-    //       //   text: "测试教案",
-    //       //   link: "/drill/",
-    //       // },
-    //       // { text: "购买", link: "/guide.html#官方购买渠道" },
-    //       {
-    //         text: "评测合集",
-    //         link: "https://v.douyin.com/iP3phvVo/",
-    //       },
-    //       // {
-    //       //   text: "教练试用申请",
-    //       //   link: "https://docs.qq.com/form/page/DUmFoaXlCQnZQU3Zz",
-    //       // },
-    //     ],
-    //     socialLinks: [
-    //       {
-    //         icon: "tiktok",
-    //         link: "https://v.douyin.com/iP3Gg77v/",
-    //       },
-    //     ],
-    //     sidebar: [
-    //       {
-    //         text: "主页",
-    //         link: "/cn",
-    //       },
-    //       {
-    //         text: "指南",
-    //         link: "/cn/guide",
-    //       },
-    //     ],
-    //     lastUpdated: {
-    //       text: "最近更新",
-    //     },
-    //     footer: {
-    //       copyright: "Copyright © 2021-2025 一起踢足球训练营",
-    //     },
-    //     sidebarMenuLabel: "菜单",
-    //     darkModeSwitchLabel: "外观",
-    //     outline: {
-    //       label: "页面导航",
-    //     },
-    //     docFooter: {
-    //       prev: "上一页",
-    //       next: "下一页",
-    //     },
-    //     returnToTopLabel: "返回顶部",
-    //   },
-    // },
+    es: {
+      label: "Español",
+      lang: "es-ES",
+      title: "IORI Timer",
+      themeConfig: {
+        nav: [
+          { text: "Hogar", link: "/es/" },
+          { text: "Guía", link: "/es/guide/" },
+          {
+            text: "Colección de vídeos",
+            items: [
+              {
+                text: "Pista y campo",
+                link: "https://www.instagram.com/iori.speed/",
+              },
+              {
+                text: "Combinado de la NFL",
+                link: "https://www.tiktok.com/@ioritimer/collection/Football-7475011203157347079",
+              },
+            ],
+          },
+        ],
+        socialLinks: [
+          {
+            icon: "instagram",
+            link: "https://www.instagram.com/iori.speed/",
+          },
+          {
+            icon: "tiktok",
+            link: "https://www.tiktok.com/@ioritimer",
+          },
+        ],
+        sidebar: [
+          {
+            text: "Hogar",
+            link: "/es",
+          },
+          {
+            text: "Guía",
+            link: "/es/guide",
+          },
+        ],
+        editLink: {
+          pattern: "https://github.com/zuqiuxunlian/iori/issues",
+          text: "El informe está descrito incorrectamente",
+        },
+        lastUpdated: {
+          text: "Última actualización",
+        },
+        footer: {
+          copyright: "Copyright © 2021-2026 YQT FC",
+        },
+        sidebarMenuLabel: "Menú",
+        darkModeSwitchLabel: "Tema oscuro",
+        outline: {
+          label: "En esta página",
+        },
+        docFooter: {
+          prev: "Página anterior",
+          next: "Página siguiente",
+        },
+        returnToTopLabel: "Volver arriba",
+      },
+    },
   },
   cleanUrls: true,
   lastUpdated: true,
