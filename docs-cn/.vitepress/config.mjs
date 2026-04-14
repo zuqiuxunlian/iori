@@ -10,6 +10,7 @@ export default defineConfig({
       label: "中文",
       lang: "zh-CN",
       title: "IORI计时器",
+      description: "田径计时器，适用于运动员、教练和粉丝",
       themeConfig: {
         nav: [
           { text: "主页", link: "/" },

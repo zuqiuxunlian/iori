@@ -10,6 +10,7 @@ export default defineConfig({
       label: "English",
       lang: "en-US",
       title: "IORI Timer",
+      description: "Track and Field Timer for Athletes, Coaches, and Fans",
       head: [
         [
           "script",
@@ -89,6 +90,7 @@ export default defineConfig({
       label: "Español",
       lang: "es-ES",
       title: "IORI Timer",
+      description: "Timer de Pista y Campo para Atletas, Entrenadores y Fans",
       themeConfig: {
         nav: [
           { text: "Hogar", link: "/es/" },
