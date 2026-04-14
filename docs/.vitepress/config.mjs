@@ -5,33 +5,43 @@ export default defineConfig({
   // title: "IORI Timer",
   // description:
   //   "Simple Yet Powerful Timer for Soccer Training and Video Recording",
+  head: [
+    [
+      "meta",
+      { property: "og:image", content: "https://ioritimer.com/iori.png" },
+    ],
+    ["meta", { property: "og:image:width", content: "1200" }],
+    ["meta", { property: "og:image:height", content: "630" }],
+    [
+      "meta",
+      { name: "twitter:image", content: "https://ioritimer.com/iori.png" },
+    ],
+    [
+      "script",
+      {
+        async: "",
+        src: "https://www.tiktok.com/embed.js",
+      },
+    ],
+    [
+      "script",
+      {
+        async: "",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-42RC5BYH40",
+      },
+    ],
+    [
+      "script",
+      {},
+      "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-2RHPF1PLEQ');",
+    ],
+  ],
   locales: {
     root: {
       label: "English",
       lang: "en-US",
       title: "IORI Timer",
       description: "Track and Field Timer for Athletes, Coaches, and Fans",
-      head: [
-        [
-          "script",
-          {
-            async: "",
-            src: "https://www.tiktok.com/embed.js",
-          },
-        ],
-        [
-          "script",
-          {
-            async: "",
-            src: "https://www.googletagmanager.com/gtag/js?id=G-42RC5BYH40",
-          },
-        ],
-        [
-          "script",
-          {},
-          "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-2RHPF1PLEQ');",
-        ],
-      ],
       themeConfig: {
         nav: [
           { text: "Home", link: "/" },

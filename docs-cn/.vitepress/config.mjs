@@ -2,15 +2,12 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // title: "IORI Timer",
-  // description:
-  //   "Simple Yet Powerful Timer for Soccer Training and Video Recording",
+  label: "中文",
+  lang: "zh-CN",
+  title: "IORI计时器",
+  description: "田径计时器，适用于运动员、教练和粉丝",
   locales: {
     root: {
-      label: "中文",
-      lang: "zh-CN",
-      title: "IORI计时器",
-      description: "田径计时器，适用于运动员、教练和粉丝",
       themeConfig: {
         nav: [
           { text: "主页", link: "/" },
