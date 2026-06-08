@@ -43,11 +43,11 @@ export default defineConfig({
         sidebar: [
           {
             text: "主页",
-            link: "/cn",
+            link: "/",
           },
           {
             text: "指南",
-            link: "/cn/guide",
+            link: "/guide",
           },
         ],
         lastUpdated: {
