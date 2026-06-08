@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: IORI计时器
+  name: IORI 计时器
   text:
   tagline: 速度，由你记录
   image:
