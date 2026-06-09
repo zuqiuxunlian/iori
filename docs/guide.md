@@ -134,16 +134,15 @@ The finish is still triggered by the laser sensor.
 
 ## Modes and Settings
 
-1. Press and hold both the **TAP button** and the **Wake button** (Side button) at the same time.
+1. Press and hold both the **TAP button** and the **Power button** (Side button) at the same time.
 2. Short press **TAP button** for switch options, long press to confirm.
 
 **Mode**: Prefix **M.**
 
-- **TAP**: Default mode.The timer on **start/finish** line use it, displays complete results. Suitable for single 100m or fly test.
-- **SPT**: Split mode. The timer on between the start and finish lines use it, only displays split result.
+- **TAP**: Default mode.Used at the starting point for split timing, multi-lane timing, and fly run.
+- **SPT**: Split mode. Used at the finish line for split timing or multi-lane timing.
 - **MORE**: More mode options, **long press** to enter the submenu to select.
-  - **PK**: Multi-track start mode, used for starting the race with multiple timing lanes. At this time, the timers on the finish line lanes all use SPT mode.
-  - **SET**: Countdown start mode. The starting buzzer fires randomly between **SET** and **GO**, with a interval of 1.5-3.5 seconds. It can replace the TAP or PK mode at the starting line.
+  - **SET**: Automatic firing mode. The starting buzzer fires randomly between **SET** and **GO**, with a interval of 1.5-3.5 seconds. It can replace the TAP or PK mode at the starting line.
   - **ADD**: Continuous trigger mode. Each trigger adds one result. Suitable for timing with 400 or 800m race.
   - **LAP**: Lap mode, records the time for each lap. Suitable for roller skating.
   - **SHT**: Shuttle run mode. The timer stops after triggering an additional certain number of times. Suitable for **5-10-5** test, it needs to be triggered twice before it stops.
@@ -152,21 +151,27 @@ The finish is still triggered by the laser sensor.
 
 **Setting**: Prefix **S.**
 
-- **TWIN**: Group setting. It allow automatic interconnection within the same group, like twins. Suitable for multiple groups to test simultaneously without interference.
-- **TRIS**: Trigger start setting. The purpose is to allow timer triggering to start. Fly test need **tris** is **ON** on the first timer.
-- **DIST**: Trigger distance setting. Selectable from 1.3 meters, 2.3 meters, etc. The default setting is 1.3 meters, which covers the width of a running track.
+- **TWIN**: Group settings. Devices in the same group automatically connect upon startup. Devices in different groups do not interfere with each other.
+  - **A to G**, Select group, then long press to confirm.
+  - **OFF**, Not participating in grouping, for standalone use.
+- **TRIG**: Trigger settings. Use **STRT** or **BOTH** for the starting point during the fly run.
+  - **BOTH** allows triggering of both start and end.
+  - **STRT** only allows triggering to begin.
+  - **STOP** (default) only allows triggering to stop.
+- **DIST**: Trigger distance setting. Optional range: 1.3 meters (default) to 6.3 meters.
+- **DEC**: Decimal point setting. Optional: 0.01 (default) hundredths and 0.001 thousandths.
 
 **Other**
 
 - **BT...**: Reset Bluetooth connection. Connect the mobile phone to control the video recording. The Bluetooth device is named “IORI xxx“.
-- **ABOUT**: Model and software version information.
+- **ABOUT**: Displays the timer's model and software version.
 
-::: tip Quick switching between TAP and PK
-In the M.TAP menu, a quick double-click will switch to PK mode.
+::: tip TAP-R mode adds an independent preparation state (similar to clearing).
+In the M.TAP menu, a quick double-click switches to TAP-R mode, and a long press confirms. Give it a try!
 :::
 
 ::: tip Menu differences
-Menu items may vary slightly in different versions
+The menu above corresponds to software version 3.3.0. Menu items may vary slightly in different software versions.
 :::
 
 ## Mounting Options

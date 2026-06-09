@@ -17,30 +17,13 @@ export default defineConfig({
             text: "3.3.0",
             items: [
               { text: "3.3.0(最新)", link: "/" },
-              { text: "3.2.0", link: "/v3.2.0/" },
+              { text: "3.2.0", link: "/v3.2.0" },
             ],
           },
-          // {
-          //   text: "型号",
-          //   ariaLabel: "Language Menu",
-          //   items: [
-          //     { text: "IORI 1S", link: "/cn/iori-1/" },
-          //     { text: "IORI PRO", link: "/cn/iori-pro/" },
-          //   ],
-          // },
-          // {
-          //   text: "测试教案",
-          //   link: "/drill/",
-          // },
-          // { text: "购买", link: "/guide.html#官方购买渠道" },
           {
             text: "评测合集",
             link: "https://v.douyin.com/iP3phvVo/",
           },
-          // {
-          //   text: "教练试用申请",
-          //   link: "https://docs.qq.com/form/page/DUmFoaXlCQnZQU3Zz",
-          // },
         ],
         socialLinks: [
           {
