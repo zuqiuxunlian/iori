@@ -6,7 +6,7 @@ export default defineConfig({
   lang: "zh-CN",
   title: "IORI 计时器",
   description: "田径计时器，适用于运动员、教练和粉丝",
-  base: "/v3.2.0/",
+  base: "/",
   locales: {
     root: {
       themeConfig: {
@@ -14,10 +14,10 @@ export default defineConfig({
           { text: "主页", link: "/" },
           { text: "指南", link: "/guide/" },
           {
-            text: "3.2.0",
+            text: "3.3.0",
             items: [
-              { text: "v3.2.0", link: "/" },
-              { text: "最新", link: "https://ioritimer.com.cn" },
+              { text: "3.3.0(最新)", link: "/" },
+              { text: "3.2.0", link: "/v3.2.0/" },
             ],
           },
           // {
