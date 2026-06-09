@@ -154,12 +154,12 @@ The finish is still triggered by the laser sensor.
 - **TWIN**: Group settings. Devices in the same group automatically connect upon startup. Devices in different groups do not interfere with each other.
   - **A to G**, Select group, then long press to confirm.
   - **OFF**, Not participating in grouping, for standalone use.
-- **TRIG**: Trigger settings. Use **STRT** or **BOTH** for the starting point during the fly run.
+- **TRIG**: Trigger settings(Only enable on mode **TAP**). Use **STRT** or **BOTH** for the starting point during the fly run.
   - **BOTH** allows triggering of both start and end.
   - **STRT** only allows triggering to begin.
   - **STOP** (default) only allows triggering to stop.
-- **DIST**: Trigger distance setting. Optional range: 1.3 meters (default) to 6.3 meters.
-- **DEC**: Decimal point setting. Optional: 0.01 (default) hundredths and 0.001 thousandths.
+- **DIST**: Trigger distance setting. Optional range: **1.3** meters (default) to **6.3** meters.
+- **DEC**: Decimal point setting. Optional: **0.01** (default) hundredths and **0.001** thousandths.
 
 **Other**
 
@@ -167,11 +167,11 @@ The finish is still triggered by the laser sensor.
 - **ABOUT**: Displays the timer's model and software version.
 
 ::: tip TAP-R mode adds an independent preparation state (similar to clearing).
-In the M.TAP menu, a quick double-click switches to TAP-R mode, and a long press confirms. Give it a try!
+In the **M.TAP** menu, a quick double-click switches to **TAP-R** mode, and a long press confirms. Give it a try!
 :::
 
 ::: tip Menu differences
-The menu above corresponds to software version 3.3.0. Menu items may vary slightly in different software versions.
+The menu above corresponds to software version **3.3.0**. Menu items may vary slightly in different software versions.
 :::
 
 ## Mounting Options

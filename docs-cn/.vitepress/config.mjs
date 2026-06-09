@@ -17,7 +17,7 @@ export default defineConfig({
             text: "3.3.0",
             items: [
               { text: "3.3.0(最新)", link: "/" },
-              { text: "3.2.0", link: "/v3.2.0" },
+              { text: "3.2.0", link: "https://ioritimer.com.cn/v3.2.0/" },
             ],
           },
           {

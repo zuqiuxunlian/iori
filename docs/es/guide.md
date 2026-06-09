@@ -133,10 +133,9 @@ Según los estándares del NFL Combine, el cronometraje de la carrera de 40 yard
 
 **Modo** : Prefijo **M.**
 
-- **TAP**: Modo predeterminado. El cronómetro en la línea de **salida/meta** lo utiliza y muestra los resultados completos. Adecuado para pruebas individuales de 100 m o de vuelo.
-- **SPT**: Modo dividido. El temporizador entre las líneas de inicio y fin lo utiliza, pero solo muestra el resultado dividido.
+- **TAP**: Modo predeterminado. Se utiliza en el punto de partida para la medición de tiempos divididos, la medición de tiempos en múltiples carriles y la carrera de vuelo.
+- **SPT**: Modo dividido. Se utiliza en la línea de meta para cronometraje dividido o cronometraje en múltiples carriles.
 - **MORE**: Más opciones de modo, **mantenga pulsado** para acceder al submenú y seleccionar.
-  - **PK**: Modo de inicio multipista, utilizado para iniciar la carrera con múltiples carriles de cronometraje. En este momento, todos los cronómetros en los carriles de la línea de meta utilizan el modo SPT.
   - **SET**: Modo de inicio con cuenta regresiva. El zumbador de inicio suena aleatoriamente entre **SET** y **GO** , con un intervalo de 1,5 a 3,5 segundos. Puede reemplazar el modo TAP o PK en la línea de salida.
   - **ADD**: Modo de disparo continuo. Cada disparo suma un resultado. Adecuado para cronometrar carreras de 400 u 800 metros.
   - **LAP**: Modo vuelta, registra el tiempo de cada vuelta. Adecuado para patinaje sobre ruedas.
@@ -146,21 +145,27 @@ Según los estándares del NFL Combine, el cronometraje de la carrera de 40 yard
 
 **Configuración**: Prefijo **S.**
 
-- **TWIN**: Configuración de grupo. Permite la interconexión automática dentro del mismo grupo, como si fueran gemelos. Ideal para que varios grupos realicen pruebas simultáneamente sin interferencias.
-- **TRIS**: Configuración de inicio del disparador. Su propósito es permitir que se inicie el disparo del temporizador. Para la prueba de vuelo, es necesario que "TRIS" esté "ON" en el primer temporizador.
-- **DIST**: Ajuste de la distancia de activación. Se puede seleccionar entre 1,3 metros, 2,3 metros, etc. El ajuste predeterminado es de 1,3 metros, que cubre el ancho de una pista de atletismo.
+- **TWIN**: Configuración de grupo. Los dispositivos del mismo grupo se conectan automáticamente al encenderse. Los dispositivos de grupos diferentes no interfieren entre sí.
+  - **A to G**, seleccione el grupo y luego mantenga pulsado para confirmar.
+  - **OFF**, No participa en la agrupación, para uso independiente.
+- **TRIG**: Ajustes del disparador. Utilice **STRT** o **BOTH** para el punto de inicio durante la carrera de vuelo.
+  - **BOTH** permite activar tanto el inicio como el final.
+  - **STRT** solo permite que comience el disparo.
+  - **STOP** (predeterminado) solo permite que se active la opción de detener.
+- **DIST**: Ajuste de la distancia de activación. Rango opcional: de **1,3** metros (predeterminado) a **6,3** metros.
+- **DEC** : Configuración del punto decimal. Opcional: **0,01** (predeterminado) centésimas y **0,001** milésimas.
 
 **Otro**
 
 - **BT...**: Restablecer conexión Bluetooth. Conecte el teléfono móvil para controlar la grabación de vídeo. El dispositivo Bluetooth se llama “IORI xxx”.
-- **ABOUT**: Información sobre el modelo y la versión del software.
+- **ABOUT**: Muestra el modelo del temporizador y la versión del software.
 
-::: tip Cambio rápido entre TAP y PK
-En el menú M.TAP, un doble clic rápido cambiará al modo PK.
+::: tip El modo TAP-R añade un estado de preparación independiente (similar al de borrado).
+En el menú **M.TAP**, un doble clic rápido activa el modo **TAP-R**, y una pulsación larga lo confirma. ¡Pruébalo!
 :::
 
 ::: tip Diferencias en el menú
-Los elementos del menú pueden variar ligeramente en diferentes versiones.
+El menú superior corresponde a la versión **3.3.0** del software. Los elementos del menú pueden variar ligeramente en otras versiones del software.
 :::
 
 ## Opciones de montaje
