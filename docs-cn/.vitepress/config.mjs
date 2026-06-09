@@ -12,6 +12,13 @@ export default defineConfig({
         nav: [
           { text: "主页", link: "/" },
           { text: "指南", link: "/guide/" },
+          {
+            text: "3.2.0",
+            items: [
+              { text: "v3.2.0", link: "/" },
+              { text: "最新", link: "https://ioritimer.com.cn" },
+            ],
+          },
           // {
           //   text: "型号",
           //   ariaLabel: "Language Menu",
