@@ -6,6 +6,7 @@ export default defineConfig({
   lang: "zh-CN",
   title: "IORI 计时器",
   description: "田径计时器，适用于运动员、教练和粉丝",
+  base: "/v3.2.0/",
   locales: {
     root: {
       themeConfig: {
@@ -85,6 +86,6 @@ export default defineConfig({
     // },
   },
   sitemap: {
-    hostname: "https://iori.zuqiuxunlian.com",
+    hostname: "https://ioritimer.com.cn",
   },
 });
